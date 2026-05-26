@@ -8,3 +8,6 @@ You are selected!
 Date: <|DATE|>'''
 
 print(letter.replace("<|NAME|>", "Ayushi").replace("<|DATE|>", "20/06/2024"))
+
+letter = "Dear Ayushi,\n\tThis python course is nice.\nThanks!"
+print(letter)
