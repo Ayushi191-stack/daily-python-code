@@ -1,0 +1,7 @@
+# Python practice Problem
+
+A collection of 100 Python programming questions and solutions, 
+progressing from beginner to advanced level, designed to improve coding skills and
+problem-solving ability.
+
+
