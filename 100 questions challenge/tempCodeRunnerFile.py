@@ -1,2 +1,10 @@
-num = input("Enter a number: ")
-# print("The reverse of a number is: ",num[::-1])
+num = int(input("Enter a number:"))
+# if num <= 1:
+#     print("not a prime")
+# else:
+#     for i in range(2,num ):
+#        if num%i == 0:
+#            print("not a prime nnumber")
+#            break
+#     else:
+#            print("prime number")
