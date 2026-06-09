@@ -1,10 +1,4 @@
-num = int(input("Enter a number:"))
-# if num <= 1:
-#     print("not a prime")
-# else:
-#     for i in range(2,num ):
-#        if num%i == 0:
-#            print("not a prime nnumber")
-#            break
-#     else:
-#            print("prime number")
+numbers = [1,2,2,3,4,4,5]
+# unique = list(set(numbers))
+
+# print(unique)
